@@ -79,7 +79,7 @@ Upload failures: check credentials, bucket permissions, file size limits, and ne
 
 ---
 
-![Backblaze B2 Cloud Storage dashboard with buckets, uploads, backup files, and S3-compatible cloud storage workflow](https://mms.businesswire.com/media/20250410185730/en/1143290/5/Backblaze_Logo.jpg?download=1)
+![Backblaze B2 Cloud Storage dashboard with buckets, uploads, backup files, and S3-compatible cloud storage workflow](https://www.podfeet.com/blog/wp-content/uploads/2018/05/05-Backblaze-Logo-1.png)
 
 ---
 
